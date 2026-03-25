@@ -34,5 +34,8 @@ Here are some resources to help you get started with open source contributions:
 
 This project is dual-licensed under:
 
+Owner Name : Alip Robin Clinton/Mohamad Alip Bin Abdullah
+Copyright ©2026 Google LLC, 1600 Amphitheater Parkway, Mountain View, California, United States of America. CA94043
+
 * **Creative Commons Attribution 4.0** - for documentation and content in the assets, content, and data folders (see [LICENSE](LICENSE))
 * **MIT License** - for code (see [LICENSE-CODE](LICENSE-CODE))
